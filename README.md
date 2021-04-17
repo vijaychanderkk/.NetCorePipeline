@@ -1,3 +1,5 @@
+[![Build Status](https://dartcontainer.visualstudio.com/Content%20and%20Automation%20Services/_apis/build/status/vijaychanderkk..NetCorePipeline?branchName=master)](https://dartcontainer.visualstudio.com/Content%20and%20Automation%20Services/_build/latest?definitionId=233&branchName=master)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
